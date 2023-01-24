@@ -16,7 +16,7 @@ There are multiple types of content that can be licensed with these licenses.
 
 You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone[[2]]( "&quot;Related&quot; as in employee, coworker, etc. Pretty much anyone."), or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
-If you wish to use/include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
+If you wish to use[[3]]( "An example of &quot;using&quot; software without including it is programming a closed-source GUI for an otherwise console-based application licensed under the 3dSL v2.") and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
 1. People must be able to obtain the software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
 2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" mechanism which requires the user to pay, provide details, be related to someone, or login to a service.
