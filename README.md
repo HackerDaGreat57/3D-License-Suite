@@ -1,3 +1,7 @@
+# This README is still WIP. Excuse errors, please.
+
+Work will begin on the actual license files after we decide the "gist" of every license here.
+
 # Three-Dimensional License Suite
 
 The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.
@@ -8,9 +12,9 @@ There are multiple types of content that can be licensed with these licenses.
 
 ### Software (3dSL)
 
-You have a perpetual license to use the software to its full potential. You may modify it as you wish, but if you are publicly distributing object/binary files of your modifications, then you need to also distribute source code of your modifications.
+You have a perpetual license to use the software to its full potential. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications.
 
-If you wish to include binary/object or source code versions of the software in other software, it must pass the following criteria:
+If you wish to use/include binary/object, source code, and/or documentation files of the software in other software, it must pass the following criteria:
 
 1. Blah
 2. Blah
