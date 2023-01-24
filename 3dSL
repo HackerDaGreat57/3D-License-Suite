@@ -1,0 +1,106 @@
+3dOS Software License v2.0 | Ratified on the ?th/st/rd of ??, ???? at ??:?? ?.M.
+--------------------------------------------------------------------------------
+Copyright (c) 2022-present 3dOS Developers Group.
+
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
+
+If you don't understand legalese, please jump to line 64.
+
+TERMS:
+0. The "source" or "source code" or "code" of a work means the preferred form of
+   the work for making modifications to it.
+1. "Binary/object" means any non-source form of a work.
+2. The "Software" is a binary/object copy of this software, its source code,
+   and accompanying documentation files.
+3. "Modified Versions of the Software" are any form of the Software that has
+   been altered or changed in any way by an entity other than 3dOS Developers
+   Group.
+4. "Free of Charge" means any entity shall retain the right to perform the
+   aforemented action without paying another entity any monetary value.
+5. "Free of Authentication" means any entity shall retain the right to perform
+   the aforemented action without voluntarily presenting their e-mail address,
+   real name, or any other details to a server or authority.
+6. "Free of Relations" means any entity shall retain the right to perform the
+   aforemented action without being in relations with any entity; so that any
+   entity can perform the aforemented action without being anyone's friend,
+   co-worker, employee, spouse, healthcare worker, favorite waiter at a
+   fast-food joint, etcetera.
+7. "Non-Free Software" includes software whose binary/object, documentation, 
+   and/or source code files are not available to the general public Free of
+   Charge, Free of Authentication, and Free of Relations. If a user must
+   "register" or "activate" the software in order to use it to its full
+   potential or modify it, that software is also considered "Non-Free Software".
+   If the software will force the user to "register" or "activate" it after a
+   certain period of time, that is also considered "Non-Free Software".
+
+CONDITIONS:
+Permission is hereby granted, Free of Charge, Free of Authentication, and Free
+of Relations, to any entity obtaining a copy of this software and associated
+documentation files, to deal in the software without restriction, including with
+some restrictions the rights to use, copy, modify, merge, publish, distribute,
+and/or sublicense the Software, and to permit entities to whom the Software is
+furnished to do so, subject to the following conditions and limitations:
+0. This license document shall be included in all copies or portions of the
+   Software.
+1. Any portion of the Software shall not, under any circumstances, be utilized
+   in or included with any Non-Free Software.
+2. The Software must be available to any entity Free of Charge, Free of
+   Authentication, and Free of Relations.
+3. Modified Versions of the Software must be made publicly available if any
+   modified form of it is intended to be available publicly.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+The text below is not part of this legal document; it is for reference purposes
+only.
+
+The general gist of this license is shown below.
+
+Disclaimer: We cannot in any way guarantee that the gist matches the true
+meaning of the license text. The gist is not legal advice. It's only a short
+summary of the full text which may or may not have some slight issues.
+
+Gist:
+0. You can use the software to its full potential, and modify it if you wish.
+   You may do this without needing to pay, without needing to sign in to any
+   kind of service, without needing to provide any details to anyone or
+   anything, or be related to anyone in any way.
+1. If you are using a modified version privately and you aren't distributing it
+   on the Internet, for example, you don't need to 
+2. You can distribute the software to anyone for any reason, as long as you
+   don't require them to pay, sign in to a service, provide any kind of
+   details, or be related to anyone or know anyone in some way.
+3. If you want to use or include portions of the software, its source code, or
+   its documentation in other software for any reason, the other software must
+   pass the following criteria:
+      a. End users shouldn't need to pay, sign in to any kind of service,
+         provide any details, or be related to someone or know someone in order
+         to download it, its source code, and its documentation.
+      b. End users shouldn't need to pay, sign in to any kind of service,
+         provide any details, or be related to somoneone or know someone to use
+         all features of the software. The software should work to its full
+         potential out of the box indefinitely without having to "register" or
+         "activate" it.
+4. If you need to share source code, you must share it in a convenient format.
+   You can't take a pixelated picture of your screen with your phone and call it
+   source code.
+      a. If the code is text-based like C, C++, Python, Java, Go, or dozens of
+         other languages, share it in plaintext format which I can open with
+         any basic text editor like Notepad. Again, anything less will not be
+         tolerated. Even screenshots. (OCR technology has its quirks and not
+         everyone has access to such software.)
+      b. If the code is block-based like Scratch, share screenshot(s) with all   
+         logic and assets visible or a file exported from whatever editor you
+         use. Or if you are literally using an online service which doesn't let 
+         you export files just make a little text note somewhere with this
+         license text in it, and make sure that it's possible for people to
+         easily copy or "fork" your code. (If the site requires people to sign
+         in, pay, or provide details to run your code or modify it, I would
+         really reconsider a bunch of things.)
