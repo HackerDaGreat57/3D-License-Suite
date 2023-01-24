@@ -8,7 +8,13 @@ There are multiple types of content that can be licensed with these licenses.
 
 ### Software (3dSL)
 
-Licensing gist here
+You have a perpetual license to use the software to its full potential. You may modify it as you wish, but if you are publicly distributing object/binary files of your modifications, then you need to also distribute source code of your modifications.
+
+If you wish to include binary/object or source code versions of the software in other software, it must pass the following criteria:
+
+1. Blah
+2. Blah
+3. Bleh
 
 ## What's up with the name?
 
