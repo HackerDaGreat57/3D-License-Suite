@@ -2,9 +2,11 @@
 
 Work will begin on the actual license files after we decide the "gist" of every license here.
 
+To view footnotes, hover your cursor above the number.
+
 # Three-Dimensional License Suite
 
-The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.
+The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.[[1]]( "Anything qualifies as &quot;private use&quot; as long as there is no public distribution of assets.")
 
 ## Licenses included in this set
 
@@ -12,13 +14,12 @@ There are multiple types of content that can be licensed with these licenses.
 
 ### Software (3dSL)
 
-You have a perpetual license to use the software to its full potential. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications.
+You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone[[2]]( "&quot;Related&quot; as in employee, coworker, etc. Pretty much anyone."), or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
-If you wish to use/include binary/object, source code, and/or documentation files of the software in other software, it must pass the following criteria:
+If you wish to use/include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
-1. Blah
-2. Blah
-3. Bleh
+1. People must be able to obtain the software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
+2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" mechanism which requires the user to pay, provide details, be related to someone, or login to a service.
 
 ## What's up with the name?
 
