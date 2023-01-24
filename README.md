@@ -1,12 +1,20 @@
-# 3dOS License Suite
+# 3-Dimensional License Suite
+
+The 3dOS License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.
 
 The name comes from a planned operating system project called the Three-Dimensional Operating System (3dOS for short, "three-dee O-ES").
 
-The 3dOS Suite of Licenses are custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.
+## Licenses included in this set
+
+There are multiple types of content that can be licensed with these licenses.
+
+### Software (3dSL)
+
+Licensing gist here
 
 ## But why?
 
-I wrote these licenses because I believe that all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course. There are multiple types of content that can be licensed with these licenses.
+I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
 
 ### Software
 
