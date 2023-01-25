@@ -2,11 +2,11 @@
 
 Work will begin on the actual license files after we decide the "gist" of every license here.
 
-To view footnotes, hover your cursor above the number.
+Footnotes are at the bottom and link back to the source.
 
 # Three-Dimensional License Suite
 
-The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.[[1]]( "Anything qualifies as &quot;private use&quot; as long as there is no public distribution of assets.")
+The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.[1]
 
 ## Licenses included in this set
 
@@ -14,9 +14,9 @@ There are multiple types of content that can be licensed with these licenses.
 
 ### Software (3dSL)
 
-You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone[[2]]( "&quot;Related&quot; as in employee, coworker, etc. Pretty much anyone."), or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
+You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone[2], or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
-If you wish to use[[3]]( "An example of &quot;using&quot; software without including it is programming a closed-source GUI for an otherwise console-based application licensed under the 3dSL v2.") and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
+If you wish to use[3] and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
 1. People must be able to obtain the software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
 2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" mechanism which requires the user to pay, provide details, be related to someone, or login to a service.
@@ -38,3 +38,9 @@ A computer is one of the greatest inventions of man, a tool that's *supposed* to
 These days, Adobe among other major software companies is moving (excuse me, *has moved*) to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm sorry to say that this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased an Adobe Creative Cloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your software, right?? That seems like it's going to go alright, right???
 
 But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not
+
+## Footnotes
+
+1. Anything qualifies as "private use" as long as there is no public distribution of assets.
+2. "Related" as in employee, coworker, etc. Pretty much anyone.
+3. An example of using software without including it is programming a closed-source GUI for an otherwise console-based application licensed under the 3dSL v2.
