@@ -19,7 +19,7 @@ You have a perpetual license to use the software to its full potential without h
 If you wish to use[3] and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
 1. People must be able to obtain the software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
-2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" mechanism which requires the user to pay, provide details, be related to someone, or login to a service.
+2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" function which requires the user to pay, provide details, be related to someone, or login to a service.
 
 ## What's up with the name?
 
