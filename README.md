@@ -37,14 +37,10 @@ A computer is one of the greatest inventions of man, a tool that's *supposed* to
 
 These days, Adobe among other major software companies is moving (excuse me, *has moved*) to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm sorry to say that this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased an Adobe Creative Cloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your software, right?? That seems like it's going to go alright, right???
 
-But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not 
-
-```
-<b id="f1">1</b> Footnote content here. [↩](#a1)
-```
+But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not blah <sup id="a1">[1](#f1)</sup>
 
 ## Footnotes
 
-1. Anything qualifies as "private use" as long as there is no public distribution of assets.
+1. <b id="f1">1</b>Anything qualifies as "private use" as long as there is no public distribution of assets.[↩](#a1)
 2. "Related" as in employee, coworker, etc. Pretty much anyone.
 3. An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
