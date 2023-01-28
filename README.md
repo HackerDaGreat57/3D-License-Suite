@@ -2,11 +2,11 @@
 
 Work will begin on the actual license files after we decide the "gist" of every license here.
 
-Footnotes are at the bottom and link back to the source.
+Footnotes link back to the source for your convenience.
 
 # Three-Dimensional License Suite
 
-The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.[1]
+The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.<sup id="a1">[1](#f1)</sup>
 
 ## Licenses included in this set
 
@@ -37,7 +37,7 @@ A computer is one of the greatest inventions of man, a tool that's *supposed* to
 
 These days, Adobe among other major software companies is moving (excuse me, *has moved*) to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm sorry to say that this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased an Adobe Creative Cloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your software, right?? That seems like it's going to go alright, right???
 
-But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not blah <sup id="a1">[1](#f1)</sup>
+But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not
 
 ## Footnotes
 
