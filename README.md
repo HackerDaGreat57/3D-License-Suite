@@ -14,7 +14,7 @@ There are multiple types of content that can be licensed with these licenses.
 
 ### Software (3dSL)
 
-You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone[2], or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
+You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
 If you wish to use[3] and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
@@ -42,5 +42,5 @@ But that's not what software was *meant to be*. Software is not something that i
 ## Footnotes
 
 1. <b id="f1"></b>*[Back to source](#a1)* | Anything qualifies as "private use" as long as there is no public distribution of assets.
-2. "Related" as in employee, coworker, etc. Pretty much anyone.
+2. <b id="f2"></b>*[Back to source](#a2)* | "Related" as in employee, coworker, etc. Pretty much anyone.
 3. An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
