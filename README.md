@@ -2,7 +2,11 @@
 
 Work will begin on the actual license files after we decide the "gist" of every license here.
 
+<<<<<<< HEAD
 Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the source line with the tiny number will be at the very top of your window/screen.
+=======
+Footnotes link back to the source for your convenience.
+>>>>>>> parent of c67c5e8 (ELI5 how I'm supposed to ELI5 this)
 
 # Three-Dimensional License Suite
 
