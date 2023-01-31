@@ -41,6 +41,6 @@ But that's not what software was *meant to be*. Software is not something that i
 
 ## Footnotes
 
-1. <b id="f1"></b>Anything qualifies as "private use" as long as there is no public distribution of assets. [Back to source](#a1)
+1. <b id="f1"></b>Anything qualifies as "private use" as long as there is no public distribution of assets. *[Back to source](#a1)*
 2. "Related" as in employee, coworker, etc. Pretty much anyone.
 3. An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
