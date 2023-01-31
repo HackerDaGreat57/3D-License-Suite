@@ -2,15 +2,11 @@
 
 Work will begin on the actual license files after we decide the "gist" of every license here.
 
-<<<<<<< HEAD
-Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the source line with the tiny number will be at the very top of your window/screen.
-=======
-Footnotes link back to the source for your convenience.
->>>>>>> parent of c67c5e8 (ELI5 how I'm supposed to ELI5 this)
+Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the line with the tiny number will be at the very top of your window/screen.
 
 # Three-Dimensional License Suite
 
-The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.`<sup id="a1">`[1](#f1)`</sup>`
+The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.<sup id="a1">[1](#f1)</sup>
 
 ## Licenses included in this set
 
@@ -45,6 +41,6 @@ But that's not what software was *meant to be*. Software is not something that i
 
 ## Footnotes
 
-1. `<b id="f1"></b>`Anything qualifies as "private use" as long as there is no public distribution of assets. [Back to source](#a1)
+1. <b id="f1">1</b>Anything qualifies as "private use" as long as there is no public distribution of assets.[↩](#a1)
 2. "Related" as in employee, coworker, etc. Pretty much anyone.
 3. An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
