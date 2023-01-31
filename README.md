@@ -16,7 +16,7 @@ There are multiple types of content that can be licensed with these licenses.
 
 You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
-If you wish to use[3] and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
+If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
 1. People must be able to obtain the software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
 2. The software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" function which requires the user to pay, provide details, be related to someone, or login to a service.
@@ -43,4 +43,4 @@ But that's not what software was *meant to be*. Software is not something that i
 
 1. <b id="f1"></b>*[Back to source](#a1)* | Anything qualifies as "private use" as long as there is no public distribution of assets.
 2. <b id="f2"></b>*[Back to source](#a2)* | "Related" as in employee, coworker, etc. Pretty much anyone.
-3. An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
+3. <b id="f3"></b>*[Back to source](#a3)* | "An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
