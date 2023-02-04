@@ -20,6 +20,13 @@ If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, sour
 ## What's up with the name?
 The word "*Dimension*" in plain English means "an aspect or feature of a situation, problem, or thing." The licenses included in this repository qualify as *things* and they have specific *features* that make them different from other licenses.
 
+I'd prefer that works licensed under one of the 3D licenses be referred to as "trifree".<sup id="a4">[4](#f4)</sup> 
+
+All licenses within the 3-Dimensional License Suite do in fact have three dimensions in common:
+1. Freedom, as in free beer and free speech
+2. Encouraging tinkering & modification (and then sharing your work so the original may be made better)
+3. Keeping trifree works trifree - _NO ONE_ can incorporate trifree works in nonfree works
+
 ## But why?
 I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
 
@@ -36,3 +43,4 @@ But that's not what software was *meant to be*. Software is not something that i
 1. <b id="f1"></b>*[Back to source](#a1)* | Anything qualifies as "private use" as long as there is no public distribution of assets.
 2. <b id="f2"></b>*[Back to source](#a2)* | "Related" as in employee, coworker, etc. Pretty much anyone.
 3. <b id="f3"></b>*[Back to source](#a3)* | An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2.
+4. <b id="f4"></b>*[Back to source](#a4)* | Three. Triple. Get the gist?
