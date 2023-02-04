@@ -25,7 +25,7 @@ I'd prefer that works licensed under one of the 3D licenses be referred to as "t
 All licenses within the 3-Dimensional License Suite do in fact have three dimensions in common:
 1. Freedom, as in free beer and free speech
 2. Encouraging tinkering & modification (and then sharing your work so the original may be made better)
-3. Keeping trifree works trifree - _NO ONE_ can incorporate trifree works in nonfree works
+3. Keeping trifree works trifree - <ins>*NO ONE*</ins> can incorporate trifree works in nonfree works, or otherwise use it for their own financial gain
 
 ## But why?
 I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
