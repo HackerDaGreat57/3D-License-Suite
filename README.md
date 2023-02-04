@@ -6,6 +6,8 @@ Footnotes at the bottom link back to the source for your convenience. When you c
 # Three-Dimensional License Suite
 The 3D License Suite is a collection of custom licenses that are focused on encouraging further expansion of ***public*** data and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms (like source code) of the assets secret, unless if it's for private use.<sup id="a1">[1](#f1)</sup>
 
+In this README, names of companies and products are slightly altered to avoid legal trouble. Considering how much anger this project will deliver to the people who make money off of these companies, it's best to not take risks.
+
 ## Licenses included in this set
 There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below.
 
@@ -17,7 +19,7 @@ If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, sour
 1. People must be able to obtain the other software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
 2. The other software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" function which requires the user to pay, provide details, be related to someone, or login to a service.
 
-## What's up with the name?
+## Naming n' Stuff
 The word "*Dimension*" in plain English means "an aspect or feature of a situation, problem, or thing." The licenses included in this repository qualify as *things* and they have specific *features* that make them different from other licenses.
 
 Works licensed with the 3D licenses can also be called "free" works, however this may clash with others' definitions of free works.
@@ -25,17 +27,19 @@ Works licensed with the 3D licenses can also be called "free" works, however thi
 All licenses within the 3-Dimensional License Suite do in fact have three dimensions in common:
 1. Freedom, as in free beer and free speech
 2. Encouraging tinkering & modification (and then sharing your work so the original may be made better)
-3. Keeping trifree works trifree - <ins>*NO ONE*</ins> can incorporate trifree works in nonfree works, or otherwise use it for their own financial gain
+3. Keeping free works free - <ins>*NO ONE*</ins> can incorporate free works in nonfree works in any way
+
+So if *Micro$oft* wanted to add code from software licensed under 3dSL to *Glasspane*, they would either have to relicense Glasspane under the 3dSL or develop a separate application which would need to be added manually after installation of their OS. It sounds inconvenient, I know - but in the end it's for the greater good.
 
 ## But why?
 I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
 
 ### Software
-A prime example of one area of computer content that's slowly getting out of hand today is software. Adobe has always asked you for your wallet in order to use certain software they make; we're all familiar with that. But you may not realize that in itself is a bad thing, because let's ask ourselves again; ***What is a computer?***
+A prime example of one area of computer content that's slowly getting out of hand today is software. *Muddybricks* has always asked you for your wallet in order to use most software they make; we're all familiar with that. But you may not realize that in itself is a bad thing, because let's ask ourselves again; ***What is a computer?***
 
-A computer is one of the greatest inventions of man, a tool that's *supposed* to let *anyone* manipulate data and perform many many arithmetic operations very, very fast. When programmed correctly, you get a computer with a full-fledged operating system and applications which you can use to work, play, collaborate via network connections, and almost anything else. [Back in the early 60&#39;s, people used to make software and distribute it and its source code for free, no questions asked.](https://en.wikipedia.org/wiki/Proprietary_software#Origin) But then IBM standardized selling software and hiding source code from the general public so people can't modify it so it fits their needs. This set the new standard for most software companies; putting source code behind lock & key and charging users to use the software after the "free trial" (or sometimes charging just to give customers access to software installer files).
+A computer is one of the greatest inventions of man, a tool that's *supposed* to let <ins>anyone</ins> manipulate data and perform many many computational operations very, very fast. When programmed correctly, you get a computer with a full-fledged operating system and applications which you can use to work, play, communicate via network connections, and almost anything else. [Back in the early 60&#39;s, people used to make software and distribute it and its source code for free, no questions asked.](https://en.wikipedia.org/wiki/Proprietary_software#Origin) But then IBM standardized selling software and hiding source code from the general public so people can't modify it so it fits their needs (and so that IBM makes more $$$). This set the new standard for most software companies; putting source code behind lock & key and charging users to use the software after the "free trial" (or sometimes charging just to give customers access to software installer files).
 
-These days, Adobe among other major software companies is moving (excuse me, *has moved*) to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm sorry to say that this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased an Adobe Creative Cloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your software, right?? That seems like it's going to go alright, right???
+These days, Muddybricks among other major software companies has moved to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm sorry to say that this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased a Muddybricks Creative Thundercloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your photo editing software, right?? [Well, good luck even getting Photocrop to even open.](https://shallowsky.com/blog/gimp/non-free-software-surprises.html)
 
 But that's not what software was *meant to be*. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not
 
