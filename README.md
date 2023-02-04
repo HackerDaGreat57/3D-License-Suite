@@ -4,7 +4,7 @@ Work will begin on the actual license files after we decide the "gist" of every 
 Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the line with the tiny number will be at the very top of your window/screen.
 
 # Three-Dimensional License Suite
-The 3D License Suite is a collection of custom asset licenses that are focused on encouraging further expansion of ***public*** knowledge and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms of the assets secret, unless if it's for private use.<sup id="a1">[1](#f1)</sup>
+The 3D License Suite is a collection of custom licenses that are focused on encouraging further expansion of ***public*** data and science by not letting people make money off the stuff by means other than donations/sponsorships. It also doesn't let people keep modified forms (like source code) of the assets secret, unless if it's for private use.<sup id="a1">[1](#f1)</sup>
 
 ## Licenses included in this set
 There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below.
@@ -20,7 +20,7 @@ If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, sour
 ## What's up with the name?
 The word "*Dimension*" in plain English means "an aspect or feature of a situation, problem, or thing." The licenses included in this repository qualify as *things* and they have specific *features* that make them different from other licenses.
 
-I'd prefer that works licensed under one of the 3D licenses be referred to as "trifree".<sup id="a4">[4](#f4)</sup> 
+Works licensed with the 3D licenses can also be called "free" works, however this may clash with others' definitions of free works.
 
 All licenses within the 3-Dimensional License Suite do in fact have three dimensions in common:
 1. Freedom, as in free beer and free speech
