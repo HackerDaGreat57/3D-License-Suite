@@ -41,6 +41,8 @@ A computer is one of the greatest inventions of man, a tool that's *supposed* to
 
 These days, Muddybricks among many other major software companies has moved to a subscription-based model. That means that you never truly 'own' the software and you have to keep paying for it indefnitely until you stop using it. Now, if you're thinking, "I'm sorry, WHAT?!", I'm afraid this is the truth as of today. And it just gets worse as I keep explaining. Let's say you purchased a Muddybricks Creative Thundercloud license and you currently pay them monthly. You're a full-time photographer on your way to Africa to get some shots of the wildlife, and you won't have time for editing your photos after you get back. However the spots you'll be going are known for having no Internet connection in *any* form. But who needs the Internet when you already licensed your photo editing software, right?? [Well, good luck even getting Photocrop to even open.](https://shallowsky.com/blog/gimp/non-free-software-surprises.html) Good luck finding a new job.
 
+Proprietary software is a ticking time bomb.
+
 **That hellish concept is not what software was *meant to be***. Software is not something that is manufactured, shipped, and put on a shelf for a customer to pick up. Software is not a service powered by thousands of tiny workers in your computer who need food and healthcare. **Software is merely a sequence of virtual bits and bytes that *you own* which can run on physical hardware which *you own* to produce an output *<ins>you own</ins>,* and it's supposed to be very transparent to anyone who pries it open to see what makes it tick.**
 
 ## Footnotes
