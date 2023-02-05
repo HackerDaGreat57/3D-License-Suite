@@ -29,7 +29,7 @@ All licenses within the 3-Dimensional License Suite do in fact have three dimens
 2. Encouraging tinkering & modification (and then sharing your work so the original may be made better)
 3. Keeping free works free - <ins>*NO ONE*</ins> can incorporate free works in nonfree works in any way
 
-So if Contoso wanted to add code from software licensed under 3dSL to CodeSwift, they would either have to relicense CodeSwift under the 3dSL or suck it up and use alternative techniques to accomplish the same task. It sounds inconvenient, I know - but in the end it's for the greater good.
+So if Orange Inc. wanted to add code from software licensed under 3dSL to their product, FluffSwift, they would either have to relicense FluffSwift under the 3dSL or suck it up and use alternative techniques to accomplish the same task. It sounds inconvenient, I know - but in the end it's for the greater good.
 
 ## But why?
 I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
