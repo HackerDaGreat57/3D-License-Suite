@@ -3,23 +3,23 @@ Work will begin on the actual license files after we decide the "gist" of every 
 
 Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the line with the tiny number will be at the very top of your window/screen.
 
-# Three-Dimensional License Suite
+# The Three-Dimensional License Suite
 The 3D License Suite is a collection of custom licenses that have three dimensions:
-1. Freedom, as in free beer and free speech
+1. Granting the licensee freedom to do almost anything with the licensed intellectual property, as in free beer and free speech
 2. Encouraging tinkering & modification (and then sharing your work so the original may be made better)
 3. Keeping free works free - <ins>*NO ONE*</ins> can incorporate free works in nonfree works in any way
 
 In this README, names of companies and products are slightly altered to avoid legal trouble. Considering how much anger this project will deliver to the people who make money off of these companies, it's best to not take risks.
 
 ## Licenses included in this set
-There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below.
+There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below. But beware that the gists don't use language as precise as in the actual license documents, which is why it might be slightly off the real meaning. We've made sure that the gists retain the true meaning of the licenses, but to be sure you can always consult the actual documents.
 
 ### Software (3dSL)
 You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service.
 
 If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
-1. People must be able to obtain the other software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
+1. Anyone must be able to obtain the other software, its source code, and its documentation without having to pay, provide details, be related to someone, or login to a service.
 2. The other software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" function which requires the user to pay, provide details, be related to someone, or login to a service.
 
 ## Naming n' Stuff
