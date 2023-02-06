@@ -1,5 +1,5 @@
 # This README is still WIP. Excuse errors, please.
-Work will begin on the actual license files after we decide the "gist" of every license here.
+Work will begin on the actual license files after we decide the "gist" of every license here. This is being tracked in [#5](https://github.com/HackerDaGreat57/3D-License-Suite/issues/5).
 
 Footnotes at the bottom link back to the source for your convenience. When you click back to the source of the footnote, the line with the tiny number will be at the very top of your window/screen.
 
