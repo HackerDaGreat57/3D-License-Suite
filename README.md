@@ -25,11 +25,11 @@ If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, sour
 2. The other software should continue working to its full potential indefinitely. There should be no "free trial" period or "registration" or "activation" function which requires the user to pay, provide details, be related to someone, or login to a service.
 
 #### Examples of Use
-There is a popular C API named SuperFast licensed under the 3dSL. All software which uses it is also licensed under the 3dSL.
+There is a popular C multithreading API named SuperFast licensed under the 3dSL. All software which uses it is also licensed under the 3dSL.
 
-So if *Tragfax Inc.* wanted to use SuperFast in their proprietary product, *FluffSwift*, they would either have to relicense FluffSwift under the 3dSL or suck it up and use alternative techniques to accomplish the same task. It sounds inconvenient, I know - but in the end it's for the greater good.
+So if *Tragfax Inc.* wanted to use SuperFast in their proprietary product, *Turnstile*, they would either have to relicense Turnstile under the 3dSL or suck it up and use alternative techniques to accomplish the same task. It sounds inconvenient, I know - but in the end it's for the greater good.
 ## But why?
-I wrote these licenses because I believe that almost all computer-generated things and the stuff used to make them need to be available to the public for free, unless if it's for private use of course.
+I wrote these licenses because I believe that almost all computer-generated things need to be available to the public for free, unless if it's for private use.
 
 ### Software
 A prime example of one area of computer content that's slowly getting out of hand today is software. *Muddybricks* has always asked you for your wallet in order to use most software they make; we're all familiar with that. But you may not realize that in itself is a bad thing, because let's ask ourselves again: ***What is a computer?***
