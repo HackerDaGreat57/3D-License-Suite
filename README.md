@@ -13,7 +13,7 @@ Works licensed with the 3D licenses can also be called "free" works, however thi
 ## Licenses included in this set
 There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below. But beware that the gists don't use language as precise as in the actual license documents, which is why they might be slightly off the real meanings. We've made sure that the gists retain the true meaning of the licenses, but to be sure you can always consult the actual documents.
 
-**The only license that exists right now is the 3dSL. Others will be added at a later date, or you can open a [pull request](https://github.com/HackerDaGreat57/3D-License-Suite/pulls) if you have ideas.**
+**The only license that exists right now is the 3dSL. Others will be added at a later date, or you can open a [pull request](https://github.com/HackerDaGreat57/3D-License-Suite/pulls) if you'd like to help with the others mentioned in [#5](https://github.com/HackerDaGreat57/3D-License-Suite/issues/5).**
 
 ### Software (3dSL)
 You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service. It is mandatory to give credit to the people who made the original version of the software; we don't like plagiarism 'round here.
