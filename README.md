@@ -12,13 +12,16 @@ In this README, names of companies and products are slightly altered to avoid le
 
 Works licensed with the 3D licenses can also be called "free" works, however this may clash with others' definitions of free works.
 
-## Licenses included in this set
-There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below. But beware that the gists don't use language as precise as in the actual license documents, which is why they might be slightly off the real meanings. We've made sure that the gists retain the true meaning of the licenses, but to be sure you can always consult the actual documents.
+## How do I use these in my project?
+Simply download the appropriate license file from the Releases page and include it in your project as a file that can be spotted easily. Better yet, add a licensing note in the README (or description) linking to the license file. That's pretty much all you have to do on your part, aside from fully understanding what these licenses mean (which is discussed below).
+
+## Licenses included in this set (and what they mean)
+There are multiple types of content that can be licensed with these licenses. The "gists" (basic summaries) of the licenses are below. But beware that the gists don't use language as precise as in the actual license documents, which is why they might be slightly off the real meanings. We've made sure that the gists retain the basic meanings of the licenses, but to be sure you can always consult the actual documents.
 
 **The only license that exists right now is the 3dSL. Others will be added at a later date. You can open a [pull request](https://github.com/HackerDaGreat57/3D-License-Suite/pulls) if you'd like to help with the others mentioned in [#5](https://github.com/HackerDaGreat57/3D-License-Suite/issues/5).**
 
 ### Software (3dSL)
-You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service. It is mandatory to give credit to the people who made the original version of the software; we don't like plagiarism 'round here.
+You have a perpetual license to use the software to its full potential without having to pay, provide details, be related to someone<sup id="a2">[2](#f2)</sup>, or login to a service. You may modify it as you wish, but if you are publicly distributing object/binary or documentation files of your modifications, then you need to also distribute source code of your modifications. And all modifications which you distribute must be available to users without them having to pay, provide details, be related to someone, or login to a service. It may or may not be mandated by the creators of the original software to credit them for their work.
 
 If you wish to use<sup id="a3">[3](#f3)</sup> and/or include binary/object, source code, and/or documentation files of the software in other software, the other software must pass the following criteria:
 
@@ -50,3 +53,6 @@ Take *Winbows*, for example. Nearly everybody uses it because the company that c
 4-3. <b id="f3"></b>*[Back to source](#a3)* | An example of using software without including it is programming a GUI for an otherwise console-based application licensed under the 3dSL v2 (which the user would have to download separately).
 4. <b id="f4"></b>*[Back to source](#a4)* | "Democratic" as in "power to the people".
 5. <b id="f5"></b>*[Back to source](#a5)* | Donations don't count as 'unnecessary expense'. It's perfectly fine to donate to something or someone as long as you aren't forced or nagged to do so.
+
+### Financial contributions
+Donations to contributors of this project are greatly appreciated. See [CREDITS.md](./CREDITS.md) for more information.
