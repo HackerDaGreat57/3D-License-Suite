@@ -1,4 +1,4 @@
-# README still WIP
+# Cancelled
 
 # The Three-Dimensional License Suite
 The 3D License Suite is a collection of custom licenses that have three dimensions (aspects):
